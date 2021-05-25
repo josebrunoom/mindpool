@@ -1,2 +1,2 @@
 # mindpool
-mindpool
+mindpool project
